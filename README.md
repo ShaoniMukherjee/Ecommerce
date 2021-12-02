@@ -12,7 +12,7 @@ Difference between marketplace and inventory-led ecommerce models
 
 You also saw that the most popular ecommerce firms in India, like Flipkart and Amazon, follow a hybrid of the two models.
 
- 
+ In this repo, I’ll give you some insights about how this amazing industry is applying data science with a Python script to practically show the case.
 
 Now, what’s in it for the sellers that they prefer selling their products on these online platforms? You saw the cash flow for the seller corresponding to each sale made on Flipkart’s seller platform. You can see more details of the breakup on the Flipkart seller page. Notice that for a product sold for ₹1,500 on Flipkart, the seller receives about ₹1,224. So, what tangible benefits does an online platform offer to sellers? You can read more about this here.
 
@@ -25,3 +25,6 @@ To better understand the sources of revenue for ecommerce firms, and the drivers
 How do ecommerce companies make money?
 
 Business model of Flipkart
+
+
+Nowadays, most e-commerce platforms collect tons of data from users without hampering customer experience. Collected data is stored in structured or tabulated tables in order to facilitate analysis and interpretation. Not only structured data is stored, but also non-structured data such as images, videos or documents, which also have plenty of value at the moment of studying users preferences and are frequently harder to process and analyze.
