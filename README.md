@@ -16,7 +16,7 @@ You also saw that the most popular ecommerce firms in India, like Flipkart and A
 
 Now, what’s in it for the sellers that they prefer selling their products on these online platforms? You saw the cash flow for the seller corresponding to each sale made on Flipkart’s seller platform. You can see more details of the breakup on the Flipkart seller page. Notice that for a product sold for ₹1,500 on Flipkart, the seller receives about ₹1,224. So, what tangible benefits does an online platform offer to sellers? You can read more about this here.
 
- 
+ ![](https://c.tenor.com/M7QadwRuNBYAAAAd/i-didnt-need-it-i-ordered-it-shea-whitney.gif)
 
 Additional Reading
 
