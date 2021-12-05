@@ -1,5 +1,7 @@
 # Ecommerce
 
+Welcome to my Ecommerce Repository where I upload all projects based on Ubuntu
+
 ![alt text](https://acowebs.com/wp-content/uploads/2019/02/Impact-of-eCommerce-On-Society.png)
 
 One particular package, #pandas_profiling is used for EDA, which is purely optional, and you can use other packages as well, as explained in the video solution. Also, please install #pandas_profiling package though 'conda', otherwise, it may not run properly. The solution provided in this segment explains one of the ways to approach this particular problem. 
